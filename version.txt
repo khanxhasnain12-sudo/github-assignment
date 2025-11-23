@@ -1,0 +1,3 @@
+hello,
+version control is tracking the history of changes made in the code of the project.it helps us keep a track of our workas it saves different versions
+ and on github we can save and share our poject online 
